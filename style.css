@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    background: linear-gradient(to bottom, aqua, #1ffd8a, #3E6D9C, #00b7c1)
+  }
+  
+  h1 {
+    text-align: center;
+  
+  }
+  
+  p {
+    font-size: 26px;
+  }
+  
+  pre {
+    padding: 16px 32px;
+    background-color: black;
+    color: aqua;
+    border-radius: 32px;
+    font-size: 22px;
+  }
